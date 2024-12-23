@@ -1,0 +1,10 @@
+bg_colour: '#282828'
+cursor_colour: '#e01be1'
+display: 800x600
+fg_colour: '#ffffff'
+font_fam: Liberation Sans
+highlight_colour: '#b82070'
+text_size: 16
+toolbar_colour: '#3bd466'
+word_wrap: true
+xor_key: null
